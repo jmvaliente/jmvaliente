@@ -7,6 +7,11 @@
  
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50px" height="50px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="50px" height="50px"/>
 
+---
+
+[![JmValiente GitHub stats](https://github-readme-stats.vercel.app/api?username=jmvaliente)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 
 <!--
