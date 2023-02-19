@@ -1,7 +1,5 @@
 ### Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px"/>, I am Jose Miguel Valiente!
 
-[![CodeWars](https://www.codewars.com/users/jmvaliente/badges/large)](https://www.codewars.com/users/fernaper 'My Honor Badge')
-
 ---
  🧰 Technologies
  
@@ -13,6 +11,7 @@
 
 ---
 
+[![CodeWars](https://www.codewars.com/users/jmvaliente/badges/large)](https://www.codewars.com/users/fernaper 'My Honor Badge')
 
 <!--
 **jmvaliente/jmvaliente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
